@@ -23,9 +23,6 @@
 
 [![猫画像](https://placekitten.com/200/200)](https://placekitten.com/)
   
-`
-コード入力
-`
 
 > 引用文
 
